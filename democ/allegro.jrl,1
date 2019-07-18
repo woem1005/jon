@@ -1,0 +1,180 @@
+\t (00:02:56) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:02:56)     Journal start - Thu Jul 18 09:47:00 2019
+\t (00:02:56)         Host=USER-PC User=user Pid=6232 CPUs=4
+\t (00:02:56) CmdLine= allegro.exe -p .
+\t (00:02:56) 
+\d (00:02:56) Design opened: C:/Users/user/Desktop/vscode_orcad/workspace/dip14,demo/democ/democ2.brd
+\i (00:02:56) generaledit 
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 840.6 248.2
+\i (00:02:57) trapsize 143
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 837.7 265.3
+\i (00:02:57) trapsize 71
+\i (00:02:59) add connect 
+\t (00:03:00) Pick first element.
+\i (00:03:00) pick grid 581.2 645.9
+\t (00:03:00) last pick:  575.0 650.0
+\t (00:03:00) last pick:  575.0 641.7
+\t (00:03:00) Target Via is defined from TOP to BOTTOM.
+\t (00:03:00) last pick:  575.0 641.7
+\i (00:03:03) pick grid 913.3 654.4
+\t (00:03:03) last pick:  925.0 650.0
+\t (00:03:03) No DRC errors detected.
+\t (00:03:03) last pick:  916.7 641.7
+\i (00:03:04) pop finish 
+\t (00:03:04) No DRC errors detected.
+\t (00:03:04) Pick first element.
+\i (00:03:06) undo 
+\i (00:03:06) trapsize 71
+\i (00:03:06) generaledit 
+\i (00:03:08) add connect 
+\t (00:03:08) Pick first element.
+\i (00:03:09) pick grid 572.6 650.2
+\t (00:03:09) last pick:  575.0 650.0
+\t (00:03:09) last pick:  575.0 641.7
+\t (00:03:09) Target Via is defined from TOP to BOTTOM.
+\t (00:03:09) last pick:  575.0 641.7
+\i (00:03:09) pick grid 961.7 660.1
+\t (00:03:09) last pick:  950.0 650.0
+\t (00:03:09) No DRC errors detected.
+\t (00:03:09) last pick:  941.7 641.7
+\i (00:03:11) toggle 
+\i (00:03:12) pick grid 946.0 882.4
+\t (00:03:12) last pick:  950.0 875.0
+\t (00:03:12) No DRC errors detected.
+\i (00:03:13) toggle 
+\i (00:03:14) toggle 
+\i (00:03:15) toggle 
+\i (00:03:16) toggle 
+\i (00:03:18) toggle 
+\i (00:03:19) toggle 
+\i (00:03:19) toggle 
+\i (00:03:20) toggle 
+\i (00:03:20) toggle 
+\i (00:03:20) toggle 
+\i (00:03:21) toggle 
+\i (00:03:21) toggle 
+\i (00:03:21) toggle 
+\i (00:03:21) toggle 
+\i (00:03:22) toggle 
+\i (00:03:22) toggle 
+\i (00:03:23) toggle 
+\i (00:03:23) toggle 
+\i (00:03:23) toggle 
+\i (00:03:24) toggle 
+\i (00:03:24) toggle 
+\i (00:03:24) toggle 
+\i (00:03:25) toggle 
+\i (00:03:25) toggle 
+\i (00:03:26) mouse_pos 812.1 863.9
+\i (00:03:26) mouse_pos 816.3 863.9
+\e (00:03:26) Command not found: doner
+\e (00:03:28) Command not found: doner
+\e (00:03:29) Command not found: doner
+\e (00:03:30) Command not found: doner
+\i (00:03:30) mouse_pos 812.1 873.9
+\i (00:03:31) mouse_pos 762.2 875.3
+\i (00:03:31) mouse_pos 763.6 875.3
+\e (00:03:31) Command not found: doner
+\i (00:03:31) mouse_pos 813.5 876.7
+\i (00:03:32) mouse_pos 812.1 876.7
+\e (00:03:32) Command not found: doner
+\i (00:03:32) mouse_pos 813.5 875.3
+\i (00:03:32) mouse_pos 804.9 872.5
+\e (00:03:32) Command not found: doner
+\i (00:03:32) mouse_pos 817.8 871.0
+\i (00:03:33) mouse_pos 807.8 871.0
+\e (00:03:33) Command not found: doner
+\i (00:03:33) mouse_pos 813.5 871.0
+\e (00:03:33) Command not found: doner
+\i (00:03:33) mouse_pos 812.1 871.0
+\i (00:03:33) mouse_pos 813.5 871.0
+\e (00:03:34) Command not found: doner
+\i (00:03:34) mouse_pos 804.9 869.6
+\e (00:03:34) Command not found: doner
+\i (00:03:34) mouse_pos 813.5 872.5
+\e (00:03:34) Command not found: doner
+\i (00:03:34) mouse_pos 812.1 865.3
+\i (00:03:34) mouse_pos 813.5 863.9
+\e (00:03:34) Command not found: doner
+\e (00:03:34) Command not found: doner
+\i (00:03:34) mouse_pos 787.8 859.6
+\i (00:03:34) mouse_pos 749.4 859.6
+\i (00:03:35) mouse_pos 769.3 859.6
+\i (00:03:35) mouse_pos 822.0 859.6
+\e (00:03:35) Command not found: doner
+\e (00:03:35) Command not found: doner
+\i (00:03:35) mouse_pos 803.5 856.8
+\i (00:03:35) mouse_pos 736.5 856.8
+\i (00:03:35) mouse_pos 767.9 859.6
+\e (00:03:35) Command not found: doner
+\i (00:03:35) mouse_pos 820.6 859.6
+\i (00:03:35) mouse_pos 795.0 858.2
+\i (00:03:35) mouse_pos 728.0 858.2
+\e (00:03:35) Command not found: doner
+\i (00:03:36) mouse_pos 755.1 858.2
+\i (00:03:36) mouse_pos 827.7 858.2
+\e (00:03:36) Command not found: doner
+\i (00:03:36) mouse_pos 795.0 856.8
+\e (00:03:36) Command not found: doner
+\i (00:03:36) mouse_pos 713.7 853.9
+\i (00:03:36) mouse_pos 775.0 853.9
+\i (00:03:36) mouse_pos 816.3 853.9
+\e (00:03:36) Command not found: doner
+\i (00:03:37) pop finish 
+\t (00:03:37) No DRC errors detected.
+\t (00:03:37) last pick:  813.5 854.9
+\i (00:03:37) mouse_pos 914.7 853.9
+\i (00:03:38) mouse_pos 963.1 853.9
+\i (00:03:38) mouse_pos 936.1 852.5
+\i (00:03:38) mouse_pos 903.3 852.5
+\i (00:03:39) mouse_pos 940.3 871.0
+\i (00:03:39) mouse_pos 966.0 871.0
+\i (00:03:39) mouse_pos 958.9 861.1
+\i (00:03:39) mouse_pos 934.6 861.1
+\i (00:03:39) mouse_pos 903.3 861.1
+\i (00:03:39) mouse_pos 812.1 853.9
+\i (00:03:39) mouse_pos 783.6 835.4
+\i (00:03:40) mouse_pos 919.0 859.6
+\i (00:03:40) mouse_pos 963.1 863.9
+\i (00:03:41) mouse_pos 934.6 868.2
+\i (00:03:41) mouse_pos 911.8 868.2
+\i (00:03:42) prepopup 894.7 831.1
+\i (00:03:43) cancel 
+\i (00:03:43) generaledit 
+\i (00:03:45) add connect 
+\t (00:03:45) Pick first element.
+\i (00:03:46) add connect 
+\t (00:03:47) Pick first element.
+\i (00:03:48) pick grid 579.8 644.5
+\t (00:03:48) last pick:  575.0 650.0
+\t (00:03:48) last pick:  575.0 641.7
+\t (00:03:48) Target Via is defined from TOP to BOTTOM.
+\t (00:03:48) last pick:  575.0 641.7
+\e (00:03:48) Command not found: doner
+\e (00:03:50) Command not found: doner
+\e (00:03:51) Command not found: doner
+\i (00:03:52) prepopup 763.6 630.2
+\i (00:03:53) done 
+\i (00:03:53) generaledit 
+\i (00:03:55) add connect 
+\t (00:03:55) Pick first element.
+\i (00:03:55) pick grid 581.2 650.2
+\t (00:03:55) last pick:  575.0 650.0
+\t (00:03:55) last pick:  575.0 641.7
+\t (00:03:55) Target Via is defined from TOP to BOTTOM.
+\t (00:03:55) last pick:  575.0 641.7
+\i (00:03:56) pick grid 742.2 651.6
+\t (00:03:56) last pick:  750.0 650.0
+\t (00:03:56) No DRC errors detected.
+\t (00:03:56) last pick:  741.7 641.7
+\i (00:03:56) prepopup 752.2 651.6
+\i (00:03:57) done 
+\i (00:03:57) generaledit 
+\i (00:04:12) exit 
+\e (00:04:12) Do you want to save the changes you made to democ2.brd?
+\i (00:04:14) fillin no 
+\t (00:04:14)     Journal end - Thu Jul 18 09:48:19 2019
